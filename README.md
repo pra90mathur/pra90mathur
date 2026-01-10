@@ -2,7 +2,7 @@
 
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Prajjwal+Mathur.;I+am+an+software+developer.;I+am+a+problem+solver.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=700&width=435&lines=I+am+Prajjwal+Mathur.;I+am+an+aspiring+software+developer.;I+am+a+problem+solver.)](https://git.io/typing-svg)
 
 ###
 
