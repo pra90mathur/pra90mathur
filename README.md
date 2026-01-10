@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Prajjwal Mathur and I'm a Software Developer.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Prajjwal+Mathur.;I+am+an+software+developer.;I+am+a+problem+solver.)](https://git.io/typing-svg)
 
 ###
 
