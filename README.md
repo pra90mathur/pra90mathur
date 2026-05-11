@@ -41,7 +41,7 @@
 ###
 
 [![LinkedIn Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/prajjwal-mathur)
-[![Gmail Badge](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge)](mailto:pra90mathur@gmail.com)
+[![Gmail Badge](https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge)](mailto:prajjwalmathur90@gmail.com)
 
 
 ###
